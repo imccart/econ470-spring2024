@@ -1,0 +1,5 @@
+/.quarto/
+docs/CNAME
+hidden/*
+docs/hidden/*
+_freeze/*

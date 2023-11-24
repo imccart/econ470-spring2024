@@ -1,11 +1,10 @@
 ---
-pagetitle: "Economics of Health Care Markets"
+pagetitle: "Research in Health Economics"
 details: " "
 page-layout: custom
 sidebar: false
 toc: false
 ---
-
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(fig.align = "center", fig.retina = 3,
@@ -15,13 +14,10 @@ knitr::opts_chunk$set(fig.align = "center", fig.retina = 3,
 options(digits = 3, width = 120,
         dplyr.summarise.inform = FALSE,
         knitr.kable.NA = "")
-
-library(googledrive)
-drive_download("bibliography/BibTeX_Library.bib", overwrite=TRUE, path='files/bib/references.bib')
 ```
 
 
-```{css echo=FALSE}
+```{css, echo=FALSE}
 .content-block {
   padding-top: 20px;
   padding-bottom: 10px;
@@ -36,7 +32,7 @@ drive_download("bibliography/BibTeX_Library.bib", overwrite=TRUE, path='files/bi
   }
 }
 
-@media (min-width: 1200px) {
+@media(min-width: 1200px) {
   .content-block {
     max-width: 1100px;
     margin: 0 auto;
@@ -48,13 +44,13 @@ drive_download("bibliography/BibTeX_Library.bib", overwrite=TRUE, path='files/bi
 
 ::: {.content-block}
 
-# Economics of Health Care Markets
+# Research in Health Economics
 
 ::: {.text-secondary .fs-4}
 
-Use the tools of microeconomic theory and basic data analysis to understand insurance markets, health care decision making, and hospital pricing
+Combining health economics and human health with causal inference and data science.
 
-Fall 2023<br>
+Spring 2024<br>
 Department of Economics<br>
 Emory University<br>
 **Follow us!** [{{< fa brands twitter >}}](https://twitter.com/emoryeconomics), [{{< fa brands linkedin >}}](https://www.linkedin.com/company/emory-university-department-of-economics), [{{< fa brands facebook >}}](https://www.facebook.com/EmoryEcon/), and [{{< fa brands instagram >}}](https://www.instagram.com/econemory/)
@@ -85,10 +81,10 @@ Emory University<br>
 
 ## Course Details
 
-{{< fa calendar-alt >}} 8-23-2023 to 12-5-2023<br>
+{{< fa calendar-alt >}} 1-17-2024 to 4-29-2024<br>
 {{< fa calendar >}} Monday & Wednesday<br>
 {{< fa clock >}} 10:00am to 11:15am<br>
-{{< fa university >}} White Hall 102
+{{< fa university >}} Rich 211
 
 :::
 

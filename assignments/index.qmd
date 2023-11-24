@@ -1,0 +1,35 @@
+---
+title: "Assignments"
+---
+
+
+Below are basic descriptions of each category of assignments for this semester. More details are available on the individual pages for each assignment. Please be sure to check the due dates on each assignment. Late assignments will receive an automatic 2% reduction in the grade for each day the assignment is turned in after the due date.
+
+## Homework
+Please submit all of your homework answers as a PDF through **Canvas** using **GradeScope**. You can use Word and "print" to PDF, but I also encourage you to use [Overleaf](https://www.overleaf.com/), which will help you to easily create PDFs and is much better for writing math-oriented documents. Overleaf is also fully cloud-based, and as an Emory student, you have full access to Overleaf Professional. 
+
+The only **requirements** for your submissions are: 1) they are submitted as PDFs; and 2) your answers are legible and organized. Please **DO NOT** write tiny answers in margins of papers, scan as PDF, and submit. I will not grade submissions like this, and the assignments will be considered late until a legible submission is uploaded. When you submit through GradeScope, you will also have to indicate which parts of your PDF align with which questions. Please be sure to do this correctly. Failure to do so will be treated as a late assignment until a properly aligned submission is uploaded.
+
+Each homework assignment is worth 60 points toward your final grade, consisting of 20 individual parts (think 4 or 5 questions each with 4 or 5 individual components). You should expect each part of each question to be worth 3 points. Each part will be graded as follows:
+
+- **3 points:** Correct answer
+- **2 points:** Good try and close, but with minor mistakes
+- **1 point:** Incomplete work but an attempt nonetheless
+- **0 points:** No work toward the answer (e.g., completely blank or some initial equation written/copied without any attempt to solve)
+
+All of the homework assignments have both a "theoretical" section and an "empirical" section. The empirical work is intended to meet two requirements: 1) it must be accessible and achievable for someone without a background in data analysis or statistics; and 2) it must involve real-world data. These two objectives are somewhat conflicting, but I've done my best to pre-clean the data so that things are simple on your end. 
+
+The empirical part of the assignments can be completed in any data software, including Excel. I also provide the data in `R` format if you're familiar with that language. If you'd like a refresher on `R` or would like to give it a shot from scratch, take a look at some of the links on our [resources](/resources/) page.
+
+## Exam
+We only have one exam this semester, and it will cover content from Modules 1 and 2. The exam is worth 60 points toward your final grade. Please see the [Mid-term Exam](/assignments/exam1.html) page for more details. 
+
+## Project
+We do not have a final exam in this class. Instead, we have a final project that asks you to compile a short policy brief on a topic of your choosing. Please see the [Final Project](/assignments/project.html) for more details.
+
+## Participation
+"Participation" will be graded based on how many of the individual participation elements are submitted. Throughout the semester, I will post "check-in" questionnaires on Canvas. Each check-in will ask questions about what you've learned in a given module so far, areas where you are confused, things that we do in class that you think are working, and things that we do in class that you think are not working. Completion of the check-in will provide 1 participation point. 
+
+We will also have regular in-class exercises. You can think of these as practice problems that we work on collectively as a class. Completing these exercises is also worth 1 participation point.
+
+At the end of the semester, I will tally your participation points, and your final participation grade will be out of 10 possible participation points. We'll have well over 10 total participation points available, so you have some margin for error here.

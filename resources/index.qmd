@@ -1,0 +1,13 @@
+---
+title: "Resources"
+---
+
+Here are a few additional resources that you may find helpful throughout the semester. The first is a math practice/review sheet. This is a good way to assess how comfortable you will be with much of the math this semester. If you can complete the review sheet easily, then you should be in good shape for the class. I'll also include all of our class worksheets on this resources page, so that they are all accessible in one place. Finally, this is where I'll house any exam review sheets or similar supplemental material throughout the semester.
+
+Below is a short list of additional resources and links that I will reference at different points throughout the semester:
+
+- [How to read an academic article](https://guides.libraries.emory.edu/c.php?g=971000&p=7017430). We will review and discuss a few academic articles throughout the semester, and you will be asked to do this independently as part of your mid-term exam and your final project.
+- Some resources for honing your data analysis skills in **R**:
+    + [R for Data Science](https://r4ds.had.co.nz/) by Hadley Wickham and Garrett Grolemund. This is the go-to resource for starting to work with **R**. Highly recommended, free, and informative.
+    + [R Language Basics](https://raw.githack.com/uo-ec607/lectures/master/04-rlang/04-rlang.html#1) by Grant McDermott
+    + [Data cleaning and wrangling in R](https://raw.githack.com/uo-ec607/lectures/master/05-tidyverse/05-tidyverse.html#1) by Grant McDermott
