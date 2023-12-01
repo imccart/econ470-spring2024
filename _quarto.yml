@@ -57,12 +57,13 @@ website:
       background: dark
       contents:
         - assignments/index.qmd
-  
-    - title: "Resources"
-      style: "docked"
-      background: dark
-      contents:
-        - resources/index.qmd
+        - assignments/homework1.qmd
+        - assignments/homework2.qmd
+        - assignments/homework3.qmd
+        - assignments/homework4.qmd
+        - assignments/homework5.qmd
+        - assignments/code-review.qmd
+        - assignments/participation.qmd
 
 
   page-footer:

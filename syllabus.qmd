@@ -103,7 +103,7 @@ Detailed descriptions of all assignments are on the [assignments](/assignments/)
 library(dplyr)
 library(tibble)
 assignments <- tibble(
-  Assignment = c("Participation", "Homework (30 x 5)", "Peer Review (10 x 4)"),  
+  Assignment = c("Participation", "Homework (30 x 5)", "Code Review (10 x 4)"),  
   Points = c(10, 30*5, 40)
 )
 
