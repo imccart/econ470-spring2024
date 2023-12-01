@@ -18,4 +18,3 @@ Here are a few additional resources that you may find helpful throughout the sem
   - [Introductory Econometrics](https://github.com/NickCH-K/econometrics) class notes from Nick Huntington-Klein
   - [Econometrics Notes](http://www.carolinacaetano.net/) from Carolina Caetano at UGA
   - Ever wish you had a central resource for lots of little commands and how to do things in different stats packages? Nick Huntington-Klein thought the same thing in his [Library of Statistical Techniques (LOST)](https://lost-stats.github.io/).
-    - 
