@@ -65,6 +65,11 @@ website:
         - assignments/code-review.qmd
         - assignments/participation.qmd
 
+    - title: "Resources"
+      style: "docked"
+      background: dark
+      contents:
+        - resources/index.qmd
 
   page-footer:
     left: |
