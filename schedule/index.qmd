@@ -12,9 +12,9 @@ Below is a breakdown of topics for each class day this semester. Assignments are
 
 | Class | Dates      | Topic                                       | Details | Slides | Assignment  |
 |:-----:|------------|---------------------------------------------|:-------:|:------:|:-----------:|
-|  1    | 1/17       | Data and Version Control                    | [{{< fa magnifying-glass  >}}](/schedule/class-01.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/health-methods-slides/00-intro/intro-01.html)  |  |
-|  2    | 1/22       | Software Setup                              | [{{< fa magnifying-glass  >}}](/schedule/class-02.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/health-methods-slides/00-intro/intro-02.html)  |  |
-|  3    | 1/24       | Introduction to Causal Inference            | [{{< fa magnifying-glass  >}}](/schedule/class-03.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/health-methods-slides/00-intro/intro-03.html)  |  |
+|  1    | 1/17       | Data and Version Control                    | [{{< fa magnifying-glass  >}}](/schedule/class-01.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/00-intro/intro-01.html)  |  |
+|  2    | 1/22       | Software Setup                              | [{{< fa magnifying-glass  >}}](/schedule/class-02.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/00-intro/intro-02.html)  |  |
+|  3    | 1/24       | Introduction to Causal Inference            | [{{< fa magnifying-glass  >}}](/schedule/class-03.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/00-intro/intro-03.html)  |  |
 |  4    | 1/29       | **Homework 1, Initial Submission**          | | | [{{< fa pen  >}}](/assignments/homework1.html) |
 |  5    | 1/31       | **Homework 1, Second Submission**           | | | [{{< fa pen  >}}](/assignments/homework1.html) |
 |       | 2/2        | **Homework 1, Final Due Date**              | | | [{{< fa pen  >}}](/assignments/homework1.html) |
@@ -25,10 +25,10 @@ Below is a breakdown of topics for each class day this semester. Assignments are
 
 | Class | Dates      | Topic                                       | Details | Slides | Assignment |
 |:-----:|------------|---------------------------------------------|:-------:|:------:|:----------:|
-|  6    | 2/5        | Basics of Hospital Pricing                  | [{{< fa magnifying-glass >}}](/schedule/class-06.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/health-methods-slides/01-so/so-01.html) | | 
-|  7    | 2/7        | Understanding HCRIS Data                    | [{{< fa magnifying-glass >}}](/schedule/class-07.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/health-methods-slides/01-so/so-02.html) | | 
-|  8    | 2/12       | Selection on Observables, Part I            | [{{< fa magnifying-glass >}}](/schedule/class-08.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/health-methods-slides/01-so/so-03.html) | | 
-|  9    | 2/14       | Selection on Observables, Part II           | [{{< fa magnifying-glass >}}](/schedule/class-09.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/health-methods-slides/01-so/so-04.html) | | 
+|  6    | 2/5        | Basics of Hospital Pricing                  | [{{< fa magnifying-glass >}}](/schedule/class-06.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/01-so/so-01.html) | | 
+|  7    | 2/7        | Understanding HCRIS Data                    | [{{< fa magnifying-glass >}}](/schedule/class-07.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/01-so/so-02.html) | | 
+|  8    | 2/12       | Selection on Observables, Part I            | [{{< fa magnifying-glass >}}](/schedule/class-08.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/01-so/so-03.html) | | 
+|  9    | 2/14       | Selection on Observables, Part II           | [{{< fa magnifying-glass >}}](/schedule/class-09.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/01-so/so-04.html) | | 
 |  10   | 2/19       | **Homework 2, Initial Submission**          | | | [{{< fa pen  >}}](/assignments/homework2.html) |
 |  11   | 2/21       | **Homework 2, Second Submission**           | | | [{{< fa pen  >}}](/assignments/homework2.html) |
 |       | 2/23       | **Homework 2, Final Due Date**              | | | [{{< fa pen  >}}](/assignments/homework2.html) |
@@ -39,10 +39,10 @@ Below is a breakdown of topics for each class day this semester. Assignments are
 
 | Class | Dates       | Topic                                       | Details | Slides | Assignment |
 |:-----:|-------------|---------------------------------------------|:-------:|:------:|:----------:|
-|  12   | 2/26        | Smoking and Demand Elasticity               | [{{< fa magnifying-glass >}}](/schedule/class-12.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/health-methods-slides/02-iv/iv-01.html) | | 
-|  13   | 2/28        | CDC Data on Smoking and Cigarette Prices    | [{{< fa magnifying-glass >}}](/schedule/class-13.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/health-methods-slides/02-iv/iv-02.html) | | 
-|  14   | 3/4         | Instrumental Variables, Part I    | [{{< fa magnifying-glass >}}](/schedule/class-14.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/health-methods-slides/02-iv/iv-03.html) | | 
-|  15   | 3/6         | Instrumental Variables, Part II   | [{{< fa magnifying-glass >}}](/schedule/class-15.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/health-methods-slides/02-iv/iv-04.html) | | 
+|  12   | 2/26        | Smoking and Demand Elasticity               | [{{< fa magnifying-glass >}}](/schedule/class-12.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/02-iv/iv-01.html) | | 
+|  13   | 2/28        | CDC Data on Smoking and Cigarette Prices    | [{{< fa magnifying-glass >}}](/schedule/class-13.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/02-iv/iv-02.html) | | 
+|  14   | 3/4         | Instrumental Variables, Part I    | [{{< fa magnifying-glass >}}](/schedule/class-14.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/02-iv/iv-03.html) | | 
+|  15   | 3/6         | Instrumental Variables, Part II   | [{{< fa magnifying-glass >}}](/schedule/class-15.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/02-iv/iv-04.html) | | 
 |  16   | 3/18        | **Homework 3, Initial Submission**          | | | [{{< fa pen  >}}](/assignments/homework3.html) |
 |  17   | 3/20        | **Homework 3, Second Submission**           | | | [{{< fa pen  >}}](/assignments/homework3.html) |
 |       | 3/22        | **Homework 3, Final Due Date**              | | | [{{< fa pen  >}}](/assignments/homework3.html) |
@@ -53,10 +53,10 @@ Below is a breakdown of topics for each class day this semester. Assignments are
 
 | Class | Dates       | Topic                                       | Details | Slides | Assignment |
 |:-----:|-------------|---------------------------------------------|:-------:|:------:|:----------:|
-|  18   | 3/25        | Basics of Medicare Advantage                | [{{< fa magnifying-glass >}}](/schedule/class-18.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/health-methods-slides/03-rd/rd-01.html) | | 
-|  19   | 3/27        | Medicare Advantage Data                     | [{{< fa magnifying-glass >}}](/schedule/class-19.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/health-methods-slides/03-rd/rd-02.html) | | 
-|  20   | 4/1         | Regression Discontinuity, Part I            | [{{< fa magnifying-glass >}}](/schedule/class-20.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/health-methods-slides/03-rd/rd-03.html) | | 
-|  21   | 4/3         | Regression Discontinuity, Part II           | [{{< fa magnifying-glass >}}](/schedule/class-21.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/health-methods-slides/03-rd/rd-04.html) | | 
+|  18   | 3/25        | Basics of Medicare Advantage                | [{{< fa magnifying-glass >}}](/schedule/class-18.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/03-rd/rd-01.html) | | 
+|  19   | 3/27        | Medicare Advantage Data                     | [{{< fa magnifying-glass >}}](/schedule/class-19.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/03-rd/rd-02.html) | | 
+|  20   | 4/1         | Regression Discontinuity, Part I            | [{{< fa magnifying-glass >}}](/schedule/class-20.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/03-rd/rd-03.html) | | 
+|  21   | 4/3         | Regression Discontinuity, Part II           | [{{< fa magnifying-glass >}}](/schedule/class-21.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/03-rd/rd-04.html) | | 
 |  22   | 4/8         | **Homework 4, Initial Submission**          | | | [{{< fa pen  >}}](/assignments/homework4.html) |
 |  23   | 4/10        | **Homework 4, Second Submission**           | | | [{{< fa pen  >}}](/assignments/homework4.html) |
 |       | 4/12        | **Homework 4, Final Due Date**              | | | [{{< fa pen  >}}](/assignments/homework4.html) |
@@ -67,9 +67,9 @@ Below is a breakdown of topics for each class day this semester. Assignments are
 
 | Class | Dates       | Topic                                       | Details | Slides | Assignment |
 |:-----:|-------------|---------------------------------------------|:-------:|:------:|:----------:|
-|  24   | 4/15        | Background on Medicaid Expansion            | [{{< fa magnifying-glass >}}](/schedule/class-24.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/health-methods-slides/04-dd/dd-01.html) | | 
-|  25   | 4/17        | Difference-in-Differences, Part I           | [{{< fa magnifying-glass >}}](/schedule/class-25.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/health-methods-slides/04-dd/dd-02.html) | | 
-|  26   | 4/22        | Difference-in-Differences, Part II          | [{{< fa magnifying-glass >}}](/schedule/class-26.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/health-methods-slides/04-dd/dd-03.html) | | 
+|  24   | 4/15        | Background on Medicaid Expansion            | [{{< fa magnifying-glass >}}](/schedule/class-24.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/04-dd/dd-01.html) | | 
+|  25   | 4/17        | Difference-in-Differences, Part I           | [{{< fa magnifying-glass >}}](/schedule/class-25.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/04-dd/dd-02.html) | | 
+|  26   | 4/22        | Difference-in-Differences, Part II          | [{{< fa magnifying-glass >}}](/schedule/class-26.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/04-dd/dd-03.html) | | 
 |  27   | 4/24        | **Homework 5, Initial Submission**          | | | [{{< fa pen  >}}](/assignments/homework5.html) |
 |  28   | 4/29        | **Homework 5, Second Submission**           | | | [{{< fa pen  >}}](/assignments/homework5.html) |
 |       | 5/8         | **Homework 5, Final Due Date**              | | | [{{< fa pen  >}}](/assignments/homework5.html) |
