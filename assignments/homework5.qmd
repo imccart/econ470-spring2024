@@ -1,5 +1,7 @@
 ---
 title: "Homework 5"
+# format:
+#   pdf: default
 ---
 
 ## Instructions
