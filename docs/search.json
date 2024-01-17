@@ -320,5 +320,19 @@
     "title": "Schedule",
     "section": "Module 4: Medicaid Expansion and Difference-in-Differences",
     "text": "Module 4: Medicaid Expansion and Difference-in-Differences\n\n\n\n\n\n\n\n\n\n\n\nClass\nDates\nTopic\nDetails\nSlides\nAssignment\n\n\n\n\n24\n4/15\nBackground on Medicaid Expansion\n\n\n\n\n\n25\n4/17\nDifference-in-Differences, Part I\n\n\n\n\n\n26\n4/22\nDifference-in-Differences, Part II\n\n\n\n\n\n27\n4/24\nHomework 5, Initial Submission\n\n\n\n\n\n28\n4/29\nHomework 5, Second Submission\n\n\n\n\n\n\n5/8\nHomework 5, Final Due Date"
+  },
+  {
+    "objectID": "schedule/class-02.html",
+    "href": "schedule/class-02.html",
+    "title": "Class 2: Software Setup",
+    "section": "",
+    "text": "Today, we’ll make sure we’re all set up up with R, Git, GitHub, and VS Code. We’ll also review some basic R concepts and get started with Git and VS Code."
+  },
+  {
+    "objectID": "schedule/class-02.html#objectives",
+    "href": "schedule/class-02.html#objectives",
+    "title": "Class 2: Software Setup",
+    "section": "Objectives",
+    "text": "Objectives\n\nSet up VS Code with R and Git. For some basic instructions, see R in VS Code and Git in VS Code\nSet up SSH keys for communication with GitHub. Some tips available here.\nCreate your first repository\nReview data manipulation in R using the tidyverse"
   }
 ]
