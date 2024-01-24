@@ -12,7 +12,7 @@ Today we'll introduce the potential outcomes framework. We'll discuss what this 
 ## Activities
 - Finalize software setup
 - Confirm ability to commit and push changes to GitHub
-- Create your own [Medicare Advantage repository](https://github.com/imccart-class/ma) and begin working with data. Some specific steps...
+- Create your own [Medicare Advantage repository](https://github.com/imccart/ma-class) and begin working with data. Some specific steps...
     1. Create an SSH key on your computer and pair with GitHub
     2. Create GitHub repository
     3. Clone to your local computer
