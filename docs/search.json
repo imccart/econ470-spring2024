@@ -354,6 +354,20 @@
     "href": "schedule/class-03.html#activities",
     "title": "Class 3: Introduction to Causal Inference",
     "section": "Activities",
-    "text": "Activities\n\nFinalize software setup\nConfirm ability to commit and push changes to GitHub"
+    "text": "Activities\n\nFinalize software setup\nConfirm ability to commit and push changes to GitHub\nCreate your own Medicare Advantage repository and begin working with data. Some specific steps…\n\nCreate an SSH key on your computer and pair with GitHub\nCreate GitHub repository\nClone to your local computer\nCreate folder structure (check Assignments Page for more detail)\nDownload data from OneDrive (check link on Canvas) and move to data/input folder\nDownload code from the GitHub repository for the assignment and move to data-code folder"
+  },
+  {
+    "objectID": "schedule/class-06.html",
+    "href": "schedule/class-06.html",
+    "title": "Class 6: Basics of Hospital Pricing",
+    "section": "",
+    "text": "In this module, we’ll introduce the idea of “selection on observables” and the different ways to exploit that idea to make casual statements. We’ll do this in the context of hospital pricing, the research question being whether and to what extent hospitals receiving a financial penalty also raise their prices."
+  },
+  {
+    "objectID": "schedule/class-06.html#readings-and-other-links",
+    "href": "schedule/class-06.html#readings-and-other-links",
+    "title": "Class 6: Basics of Hospital Pricing",
+    "section": "Readings and other links",
+    "text": "Readings and other links\nLinks to papers are listed alongside the full reference. PDFs of each paper are also available on Canvas.\n\n Required readings for this module:\n\nChapter 5 of Causal Inference: The Mixtape\nChapter 14 of The Effect: An Introduction to Research Design and Causality\n\n Supplemental information and readings:\n\nChapters 1-2, and 4 of Causal Inference: The Mixtape\nChapters 1-5, 10, and 13 of The Effect: An Introduction to Research Design and Causality\nChapters 2-3 of (Angrist and Pischke 2009)\n(Darden, McCarthy, and Barrette 2018)\n(Cooper et al. 2019). Link to paper here.\n\n Data for this module:\n\nHospital Cost Report Information System (HCRIS) repository\nSee also a similar repository here from Adam Sacarny"
   }
 ]
