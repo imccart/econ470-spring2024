@@ -369,5 +369,26 @@
     "title": "Class 6: Basics of Hospital Pricing",
     "section": "Readings and other links",
     "text": "Readings and other links\nLinks to papers are listed alongside the full reference. PDFs of each paper are also available on Canvas.\n\n Required readings for this module:\n\nChapter 5 of Causal Inference: The Mixtape\nChapter 14 of The Effect: An Introduction to Research Design and Causality\n\n Supplemental information and readings:\n\nChapters 1-2, and 4 of Causal Inference: The Mixtape\nChapters 1-5, 10, and 13 of The Effect: An Introduction to Research Design and Causality\nChapters 2-3 of (Angrist and Pischke 2009)\n(Darden, McCarthy, and Barrette 2018)\n(Cooper et al. 2019). Link to paper here.\n\n Data for this module:\n\nHospital Cost Report Information System (HCRIS) repository\nSee also a similar repository here from Adam Sacarny"
+  },
+  {
+    "objectID": "schedule/class-07.html",
+    "href": "schedule/class-07.html",
+    "title": "Class 7: HCRIS Data",
+    "section": "",
+    "text": "In this class, we’ll discuss the Hospital Cost Report Information System (HCRIS) data and how to use these data to estimate hospital prices."
+  },
+  {
+    "objectID": "schedule/class-07.html#objectives",
+    "href": "schedule/class-07.html#objectives",
+    "title": "Class 7: HCRIS Data",
+    "section": "Objectives",
+    "text": "Objectives\n\nUnderstand the nature of hospital pricing\nExplain HCRIS data, how the data are generated, and how the data can be used to estimate a hospital’s “price”"
+  },
+  {
+    "objectID": "schedule/class-07.html#activities",
+    "href": "schedule/class-07.html#activities",
+    "title": "Class 7: HCRIS Data",
+    "section": "Activities",
+    "text": "Activities\n\nClone Hospital Cost Report Information System (HCRIS) repository and begin working with data. See also a similar repository here from Adam Sacarny"
   }
 ]
