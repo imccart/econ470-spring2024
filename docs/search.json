@@ -390,5 +390,47 @@
     "title": "Class 7: HCRIS Data",
     "section": "Activities",
     "text": "Activities\n\nClone Hospital Cost Report Information System (HCRIS) repository and begin working with data. See also a similar repository here from Adam Sacarny"
+  },
+  {
+    "objectID": "schedule/class-08.html",
+    "href": "schedule/class-08.html",
+    "title": "Class 8: Selection on Observables",
+    "section": "",
+    "text": "This class begins our first attempt to estimate a causal treatment effect. We’ll do so with a few approaches, all of which rely on the combination of a “selection on observables” or “conditional independence” assumption, along with a “common support” assumption."
+  },
+  {
+    "objectID": "schedule/class-08.html#objectives",
+    "href": "schedule/class-08.html#objectives",
+    "title": "Class 8: Selection on Observables",
+    "section": "Objectives",
+    "text": "Objectives\n\nUnderstand and explain the differences between matching and re-weighting\nExplain the implicit weighting in OLS regression and how to avoid such weighting\nCalculate an ATE or ATT using regression, matching, and weighting"
+  },
+  {
+    "objectID": "schedule/class-08.html#activities",
+    "href": "schedule/class-08.html#activities",
+    "title": "Class 8: Selection on Observables",
+    "section": "Activities",
+    "text": "Activities\n\nContinue working with the Hospital Cost Report Information System (HCRIS) repository.\nEstimate treatment effects with simulated data, using matching, regression, and re-weighting. The code file for in-class simulated data is available here"
+  },
+  {
+    "objectID": "schedule/class-09.html",
+    "href": "schedule/class-09.html",
+    "title": "Class 9: Selection on Observables in Practice",
+    "section": "",
+    "text": "Today we’ll continue our work with matching, reweighting, and regression, but in the context of real life data on hospital prices."
+  },
+  {
+    "objectID": "schedule/class-09.html#objectives",
+    "href": "schedule/class-09.html#objectives",
+    "title": "Class 9: Selection on Observables in Practice",
+    "section": "Objectives",
+    "text": "Objectives\n\nUnderstand HCRIS data and explain hospital pricing\nCalculate an ATE or ATT using regression, matching, and weighting using real-world pricing data"
+  },
+  {
+    "objectID": "schedule/class-09.html#activities",
+    "href": "schedule/class-09.html#activities",
+    "title": "Class 9: Selection on Observables in Practice",
+    "section": "Activities",
+    "text": "Activities\n\nContinue working with the Hospital Cost Report Information System (HCRIS) repository.\nEstimate the effect of hospital penalties on hospital pricing"
   }
 ]
