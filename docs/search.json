@@ -432,5 +432,54 @@
     "title": "Class 9: Selection on Observables in Practice",
     "section": "Activities",
     "text": "Activities\n\nContinue working with the Hospital Cost Report Information System (HCRIS) repository.\nEstimate the effect of hospital penalties on hospital pricing"
+  },
+  {
+    "objectID": "schedule/class-12.html",
+    "href": "schedule/class-12.html",
+    "title": "Class 12: Smoking and Demand Elasticity",
+    "section": "",
+    "text": "The goal of this module is to understand instrumental variables as a causal identification strategy. We’ll do this in the context of smoking and cigarette prices. Effectively, we want to estimate a demand curve for cigarettes, accounting for the fact that movements in quantity and price derive from changes in both supply and demand."
+  },
+  {
+    "objectID": "schedule/class-12.html#readings-and-other-links",
+    "href": "schedule/class-12.html#readings-and-other-links",
+    "title": "Class 12: Smoking and Demand Elasticity",
+    "section": "Readings and other links",
+    "text": "Readings and other links\nLinks to papers are listed alongside the full reference. PDFs of each paper are also available on Canvas.\n\n Required readings for this module:\n\nChapter 7 of Causal Inference: The Mixtape\nChapter 19 of The Effect: An Introduction to Research Design and Causality\n\n Supplemental information and readings:\n\nChapter 4 of (Angrist and Pischke 2009)\n(gruber2001?). Paper link here.\n(ross2003?). Paper link here\n\n Data for this module:\n\nCDC Tax Burden on Tobacco"
+  },
+  {
+    "objectID": "schedule/class-12.html#objectives",
+    "href": "schedule/class-12.html#objectives",
+    "title": "Class 12: Smoking and Demand Elasticity",
+    "section": "Objectives",
+    "text": "Objectives\n\nExplain some of the history of smoking in the U.S.\nDescribe the empirical barriers to estimating demand curves"
+  },
+  {
+    "objectID": "schedule/class-12.html#activities",
+    "href": "schedule/class-12.html#activities",
+    "title": "Class 12: Smoking and Demand Elasticity",
+    "section": "Activities",
+    "text": "Activities\n\nReview homework 2 and matching/weighting in practice"
+  },
+  {
+    "objectID": "schedule/class-13.html",
+    "href": "schedule/class-13.html",
+    "title": "Class 13: Data on Smoking and Cigarette Prices",
+    "section": "",
+    "text": "Today we’ll discuss demand estimation in the context of smoking. We’ll also introduce the idea of instrumental variables as a way to estimate causal effects when confronted with selection on unobservables."
+  },
+  {
+    "objectID": "schedule/class-13.html#objectives",
+    "href": "schedule/class-13.html#objectives",
+    "title": "Class 13: Data on Smoking and Cigarette Prices",
+    "section": "Objectives",
+    "text": "Objectives\n\nUnderstand CDC and tax data sources\nIntroduce the idea of instrumental variables"
+  },
+  {
+    "objectID": "schedule/class-13.html#activities",
+    "href": "schedule/class-13.html#activities",
+    "title": "Class 13: Data on Smoking and Cigarette Prices",
+    "section": "Activities",
+    "text": "Activities\n\nBegin working with CDC Tax Burden data\nDerive initial instrumental variables estimate\nDefine and explain the instrumental variable estimate as a ratio of a “reduced-form” to a “first-stage” estimate"
   }
 ]
