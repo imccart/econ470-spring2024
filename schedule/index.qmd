@@ -39,10 +39,10 @@ Below is a breakdown of topics for each class day this semester. Assignments are
 
 | Class | Dates       | Topic                                       | Details | Slides | Assignment |
 |:-----:|-------------|---------------------------------------------|:-------:|:------:|:----------:|
-|  12   | 2/26        | Smoking and Demand Elasticity               | [{{< fa magnifying-glass >}}](/schedule/class-12.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/02-iv/iv1.html) | | 
-|  13   | 2/28        | CDC Data on Smoking and Cigarette Prices    | [{{< fa magnifying-glass >}}](/schedule/class-13.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/02-iv/iv2.html) | | 
-|  14   | 3/4         | Instrumental Variables, Part I    | [{{< fa magnifying-glass >}}](/schedule/class-14.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/02-iv/iv3.html) | | 
-|  15   | 3/6         | Instrumental Variables, Part II   | [{{< fa magnifying-glass >}}](/schedule/class-15.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/02-iv/iv4.html) | | 
+|  12   | 2/26        | Smoking and Demand Elasticity               | [{{< fa magnifying-glass >}}](/schedule/class-12.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/02-iv/02-iv1.html) | | 
+|  13   | 2/28        | CDC Data on Smoking and Cigarette Prices    | [{{< fa magnifying-glass >}}](/schedule/class-13.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/02-iv/02-iv2.html) | | 
+|  14   | 3/4         | Instrumental Variables, Part I    | [{{< fa magnifying-glass >}}](/schedule/class-14.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/02-iv/02-iv3.html) | | 
+|  15   | 3/6         | Instrumental Variables, Part II   | [{{< fa magnifying-glass >}}](/schedule/class-15.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/02-iv/02-iv4.html) | | 
 |  16   | 3/18        | **Homework 3, Initial Submission**          | | | [{{< fa pen  >}}](/assignments/homework3.html) |
 |  17   | 3/20        | **Homework 3, Second Submission**           | | | [{{< fa pen  >}}](/assignments/homework3.html) |
 |       | 3/22        | **Homework 3, Final Due Date**              | | | [{{< fa pen  >}}](/assignments/homework3.html) |
