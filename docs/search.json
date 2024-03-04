@@ -481,5 +481,47 @@
     "title": "Class 13: Data on Smoking and Cigarette Prices",
     "section": "Activities",
     "text": "Activities\n\nBegin working with CDC Tax Burden data\nDerive initial instrumental variables estimate\nDefine and explain the instrumental variable estimate as a ratio of a “reduced-form” to a “first-stage” estimate"
+  },
+  {
+    "objectID": "schedule/class-14.html",
+    "href": "schedule/class-14.html",
+    "title": "Class 14: Instrumental Variables Part I",
+    "section": "",
+    "text": "Today we’ll formally introduce instrumental variables and discuss some of the thorny issues associated with IV in practice (namely, testing for instrument validity and interpreting the results)."
+  },
+  {
+    "objectID": "schedule/class-14.html#objectives",
+    "href": "schedule/class-14.html#objectives",
+    "title": "Class 14: Instrumental Variables Part I",
+    "section": "Objectives",
+    "text": "Objectives\n\nUnderstand the concept of instrumental variables and how they can be used to estimate causal effects\nList and explain the key assumptions for a “good” instrument\nDefine and explain a local average treatment effect"
+  },
+  {
+    "objectID": "schedule/class-14.html#activities",
+    "href": "schedule/class-14.html#activities",
+    "title": "Class 14: Instrumental Variables Part I",
+    "section": "Activities",
+    "text": "Activities\n\nContinue work with the CDC Tax Burden on Tobacco data\nData simulation and practical issues with IV"
+  },
+  {
+    "objectID": "schedule/class-15.html",
+    "href": "schedule/class-15.html",
+    "title": "Class 15: Instrumental Variables Part II",
+    "section": "",
+    "text": "Today, we employ the IV estimator in the context of demand estimation for cigarettes. We also introduce the idea of a “fixed effect” in a regression specification."
+  },
+  {
+    "objectID": "schedule/class-15.html#objectives",
+    "href": "schedule/class-15.html#objectives",
+    "title": "Class 15: Instrumental Variables Part II",
+    "section": "Objectives",
+    "text": "Objectives\n\nUnderstand and use an IV estimator in R\nDefine and explain a fixed effect in a regression context\nUnderstand and describe the problem of weak instruments and how to test for weak instruments empirically"
+  },
+  {
+    "objectID": "schedule/class-15.html#activities",
+    "href": "schedule/class-15.html#activities",
+    "title": "Class 15: Instrumental Variables Part II",
+    "section": "Activities",
+    "text": "Activities\n\nContinue work with the CDC Tax Burden on Tobacco data\nEstimate the price elasticity of demand for cigarettes using taxes as an instrument for price"
   }
 ]

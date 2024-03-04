@@ -53,10 +53,10 @@ Below is a breakdown of topics for each class day this semester. Assignments are
 
 | Class | Dates       | Topic                                       | Details | Slides | Assignment |
 |:-----:|-------------|---------------------------------------------|:-------:|:------:|:----------:|
-|  18   | 3/25        | Basics of Medicare Advantage                | [{{< fa magnifying-glass >}}](/schedule/class-18.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/03-rd/rd-01.html) | | 
-|  19   | 3/27        | Medicare Advantage Data                     | [{{< fa magnifying-glass >}}](/schedule/class-19.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/03-rd/rd-02.html) | | 
-|  20   | 4/1         | Regression Discontinuity, Part I            | [{{< fa magnifying-glass >}}](/schedule/class-20.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/03-rd/rd-03.html) | | 
-|  21   | 4/3         | Regression Discontinuity, Part II           | [{{< fa magnifying-glass >}}](/schedule/class-21.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/03-rd/rd-04.html) | | 
+|  18   | 3/25        | Basics of Medicare Advantage                | [{{< fa magnifying-glass >}}](/schedule/class-18.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/03-rd/03-rd1.html) | | 
+|  19   | 3/27        | Medicare Advantage Data                     | [{{< fa magnifying-glass >}}](/schedule/class-19.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/03-rd/03-rd2.html) | | 
+|  20   | 4/1         | Regression Discontinuity, Part I            | [{{< fa magnifying-glass >}}](/schedule/class-20.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/03-rd/03-rd3.html) | | 
+|  21   | 4/3         | Regression Discontinuity, Part II           | [{{< fa magnifying-glass >}}](/schedule/class-21.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/03-rd/03-rd4.html) | | 
 |  22   | 4/8         | **Homework 4, Initial Submission**          | | | [{{< fa pen  >}}](/assignments/homework4.html) |
 |  23   | 4/10        | **Homework 4, Second Submission**           | | | [{{< fa pen  >}}](/assignments/homework4.html) |
 |       | 4/12        | **Homework 4, Final Due Date**              | | | [{{< fa pen  >}}](/assignments/homework4.html) |
