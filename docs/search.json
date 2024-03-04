@@ -523,5 +523,96 @@
     "title": "Class 15: Instrumental Variables Part II",
     "section": "Activities",
     "text": "Activities\n\nContinue work with the CDC Tax Burden on Tobacco data\nEstimate the price elasticity of demand for cigarettes using taxes as an instrument for price"
+  },
+  {
+    "objectID": "schedule/class-21.html",
+    "href": "schedule/class-21.html",
+    "title": "Class 21: Regression Discontinuity Part II",
+    "section": "",
+    "text": "Today we’ll work with a real-life example of RD using Medicare Advantage star ratings."
+  },
+  {
+    "objectID": "schedule/class-21.html#objectives",
+    "href": "schedule/class-21.html#objectives",
+    "title": "Class 21: Regression Discontinuity Part II",
+    "section": "Objectives",
+    "text": "Objectives\n\nExplain optimal bin width and bandwidth calculations\nDefine “manipulation” of the running variable\nDefine what we mean by “covariate balance” and why it matters for RDD"
+  },
+  {
+    "objectID": "schedule/class-21.html#activities",
+    "href": "schedule/class-21.html#activities",
+    "title": "Class 21: Regression Discontinuity Part II",
+    "section": "Activities",
+    "text": "Activities\n\nImplement an RD strategy with Medicare Advantage star ratings\nTest for manipulation of the running variable\nTest for covariate balance"
+  },
+  {
+    "objectID": "schedule/class-20.html",
+    "href": "schedule/class-20.html",
+    "title": "Class 20: Regression Discontinuity Part I",
+    "section": "",
+    "text": "We’ll begin implementing an RD with simulated data. We’ll discuss the basics of the RD identification strategy, its implementation, and some details including bin and bandwidth selection."
+  },
+  {
+    "objectID": "schedule/class-20.html#objectives",
+    "href": "schedule/class-20.html#objectives",
+    "title": "Class 20: Regression Discontinuity Part I",
+    "section": "Objectives",
+    "text": "Objectives\n\nDescribe the intuition underlying the RD identification strategy\nImplement an RD strategy with simulated data\nExplain optimal bandwidth and bin width selection"
+  },
+  {
+    "objectID": "schedule/class-20.html#activities",
+    "href": "schedule/class-20.html#activities",
+    "title": "Class 20: Regression Discontinuity Part I",
+    "section": "Activities",
+    "text": "Activities\n\nClone the Medicare Advantage repository (if you haven’t already) and begin working with data\nImplement RD design with simulated data in R"
+  },
+  {
+    "objectID": "schedule/class-18.html",
+    "href": "schedule/class-18.html",
+    "title": "Class 18: Medicare Advantage and Quality Reporting",
+    "section": "",
+    "text": "The goal of this module is to understand regression discontinuity as a causal identification strategy. We’ll do this in the context of Medicare Advantage quality ratings, where we’ll estimate the effect of higher quality ratings on enrollments. Similar to the prior module, we’ll use RD as a way to avoid problems of endogeneity of ratings."
+  },
+  {
+    "objectID": "schedule/class-18.html#readings-and-other-links",
+    "href": "schedule/class-18.html#readings-and-other-links",
+    "title": "Class 18: Medicare Advantage and Quality Reporting",
+    "section": "Readings and other links",
+    "text": "Readings and other links\nLinks to papers are listed alongside the full reference. PDFs of each paper are also available on Canvas.\n\n Required readings for this module:\n\nChapter 6 of Causal Inference: The Mixtape\nChapter 20 of The Effect: An Introduction to Research Design and Causality\n\n Supplemental information and readings:\n\nChapter 6 of (Angrist and Pischke 2009)\n(Darden and McCarthy 2015)\n(Gruber 2017)\n\n\n Data for this module:\n\nMedicare Advantage repository"
+  },
+  {
+    "objectID": "schedule/class-18.html#objectives",
+    "href": "schedule/class-18.html#objectives",
+    "title": "Class 18: Medicare Advantage and Quality Reporting",
+    "section": "Objectives",
+    "text": "Objectives\n\nExplain some of the history and institutional details of Medicare Advantage\nUnderstand the role of quality ratings on insurance plan choice"
+  },
+  {
+    "objectID": "schedule/class-18.html#activities",
+    "href": "schedule/class-18.html#activities",
+    "title": "Class 18: Medicare Advantage and Quality Reporting",
+    "section": "Activities",
+    "text": "Activities\n\nReview homework 3 and IV in practice"
+  },
+  {
+    "objectID": "schedule/class-19.html",
+    "href": "schedule/class-19.html",
+    "title": "Class 19: Medicare Advantage Data",
+    "section": "",
+    "text": "Today we’ll revisit the MA data from Module 0. We’ll also introduce data on the MA quality rating program and how it plays out in real life."
+  },
+  {
+    "objectID": "schedule/class-19.html#objectives",
+    "href": "schedule/class-19.html#objectives",
+    "title": "Class 19: Medicare Advantage Data",
+    "section": "Objectives",
+    "text": "Objectives\n\nUnderstand the MA data and datasets required for this Module\nExplain the MA star rating program and how the star ratings are calculated\nExplain the MA quality improvement program"
+  },
+  {
+    "objectID": "schedule/class-19.html#activities",
+    "href": "schedule/class-19.html#activities",
+    "title": "Class 19: Medicare Advantage Data",
+    "section": "Activities",
+    "text": "Activities\n\nClone the Medicare Advantage repository (if you haven’t already) and begin working with data."
   }
 ]
