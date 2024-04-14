@@ -67,9 +67,9 @@ Below is a breakdown of topics for each class day this semester. Assignments are
 
 | Class | Dates       | Topic                                       | Details | Slides | Assignment |
 |:-----:|-------------|---------------------------------------------|:-------:|:------:|:----------:|
-|  24   | 4/15        | Background on Medicaid Expansion            | [{{< fa magnifying-glass >}}](/schedule/class-24.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/04-dd/dd-01.html) | | 
-|  25   | 4/17        | Difference-in-Differences, Part I           | [{{< fa magnifying-glass >}}](/schedule/class-25.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/04-dd/dd-02.html) | | 
-|  26   | 4/22        | Difference-in-Differences, Part II          | [{{< fa magnifying-glass >}}](/schedule/class-26.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/04-dd/dd-03.html) | | 
+|  24   | 4/15        | Background on Medicaid Expansion            | [{{< fa magnifying-glass >}}](/schedule/class-24.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/04-dd/04-dd1.html) | | 
+|  25   | 4/17        | Difference-in-Differences, Part I           | [{{< fa magnifying-glass >}}](/schedule/class-25.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/04-dd/04-dd2.html) | | 
+|  26   | 4/22        | Difference-in-Differences, Part II          | [{{< fa magnifying-glass >}}](/schedule/class-26.html) | [{{< fa person-chalkboard >}}](https://imccart.github.io/empirical-methods-slides/04-dd/04-dd3.html) | | 
 |  27   | 4/24        | **Homework 5, Initial Submission**          | | | [{{< fa pen  >}}](/assignments/homework5.html) |
 |  28   | 4/29        | **Homework 5, Second Submission**           | | | [{{< fa pen  >}}](/assignments/homework5.html) |
 |       | 5/8         | **Homework 5, Final Due Date**              | | | [{{< fa pen  >}}](/assignments/homework5.html) |

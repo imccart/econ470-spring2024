@@ -614,5 +614,82 @@
     "title": "Class 19: Medicare Advantage Data",
     "section": "Activities",
     "text": "Activities\n\nClone the Medicare Advantage repository (if you haven’t already) and begin working with data."
+  },
+  {
+    "objectID": "schedule/class-24.html",
+    "href": "schedule/class-24.html",
+    "title": "Class 24: Medicaid Expansion and Uninsurance",
+    "section": "",
+    "text": "The goal of this module is to understand difference-in-differences as a causal identification strategy. We’ll do this in the context of Medicaid expansion and its effect on uninsurance."
+  },
+  {
+    "objectID": "schedule/class-24.html#readings-and-other-links",
+    "href": "schedule/class-24.html#readings-and-other-links",
+    "title": "Class 24: Medicaid Expansion and Uninsurance",
+    "section": "Readings and other links",
+    "text": "Readings and other links\nLinks to papers are listed alongside the full reference\n\n Required readings for this module:\n\nChapters 8-9 of Causal Inference: The Mixtape\nChapters 16-18 of The Effect: An Introduction to Research Design and Causality\n\n Supplemental information and readings:\n\nChapter 5 of (Angrist and Pischke 2009)\n(courtemanche2017?)\n(obama2016?)\n\n\n Data for this module:\n\nInsurance Access and Medicaid Expansion repository"
+  },
+  {
+    "objectID": "schedule/class-24.html#objectives",
+    "href": "schedule/class-24.html#objectives",
+    "title": "Class 24: Medicaid Expansion and Uninsurance",
+    "section": "Objectives",
+    "text": "Objectives\n\nUnderstand some of the large changes introduced by the Affordable Care Act\nExplain what we mean by “Medicaid expansion”\nUnderstand the ACS data and how to access the data in R"
+  },
+  {
+    "objectID": "schedule/class-24.html#activities",
+    "href": "schedule/class-24.html#activities",
+    "title": "Class 24: Medicaid Expansion and Uninsurance",
+    "section": "Activities",
+    "text": "Activities\n\nReview homework 4 and RD in practice\nImport ACS data via API in R\nSummarize insurance status over time"
+  },
+  {
+    "objectID": "schedule/class-25.html",
+    "href": "schedule/class-25.html",
+    "title": "Class 25: Introduction to Difference-in-Differences",
+    "section": "",
+    "text": "The goal of Part 2 of this module is to introduce the difference-in-differences identification strategy and begin to implement this strategy with simulated data."
+  },
+  {
+    "objectID": "schedule/class-25.html#readings-and-other-links",
+    "href": "schedule/class-25.html#readings-and-other-links",
+    "title": "Class 24: Medicaid Expansion and Uninsurance",
+    "section": "Readings and other links",
+    "text": "Readings and other links\nLinks to papers are listed alongside the full reference\n\n Required readings for this module:\n\nChapters 8-9 of Causal Inference: The Mixtape\nChapters 16-18 of The Effect: An Introduction to Research Design and Causality\n\n Supplemental information and readings:\n\nChapter 5 of (Angrist and Pischke 2009)\n(courtemanche2017?)\n(obama2016?)\n\n\n Data for this module:\n\nInsurance Access and Medicaid Expansion repository"
+  },
+  {
+    "objectID": "schedule/class-25.html#objectives",
+    "href": "schedule/class-25.html#objectives",
+    "title": "Class 25: Introduction to Difference-in-Differences",
+    "section": "Objectives",
+    "text": "Objectives\n\nDescribe the basics of panel data and fixed effects\nDescribe the DD research design"
+  },
+  {
+    "objectID": "schedule/class-25.html#activities",
+    "href": "schedule/class-25.html#activities",
+    "title": "Class 25: Introduction to Difference-in-Differences",
+    "section": "Activities",
+    "text": "Activities\n\nImplement DD using simple averages and in a regression context"
+  },
+  {
+    "objectID": "schedule/class-26.html",
+    "href": "schedule/class-26.html",
+    "title": "Class 26: Difference-in-Differences in Practice",
+    "section": "",
+    "text": "The goal of Part 3 of this module is to use a DD strategy with real-life data and discuss some current issues with the implementation of DD designs in practice"
+  },
+  {
+    "objectID": "schedule/class-26.html#objectives",
+    "href": "schedule/class-26.html#objectives",
+    "title": "Class 26: Difference-in-Differences in Practice",
+    "section": "Objectives",
+    "text": "Objectives\n\nUnderstand and explain some of the difficulties when interpreting the results of regression-based DD estimates\nBe aware of alternative estimators that may be applicable in some settings"
+  },
+  {
+    "objectID": "schedule/class-26.html#activities",
+    "href": "schedule/class-26.html#activities",
+    "title": "Class 26: Difference-in-Differences in Practice",
+    "section": "Activities",
+    "text": "Activities\n\nEstimate an event study with constant treatment timing\nEstimate an event study with differential treatment timing"
   }
 ]
